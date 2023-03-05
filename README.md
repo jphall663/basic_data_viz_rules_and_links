@@ -53,7 +53,6 @@ Below are a few good rules for increasing audience engagement (and decreasing au
 ## Free visualization apps
 
 * [Google Trends - Search terms over time](http://www.google.com/trends/)
-* [Statsilk - Maps and other data visualization](http://www.statsilk.com/)
 * [Color Brewer - Color advice for maps](http://colorbrewer2.org/)
 * [Raw - Web visualizations from CSV or Excel files](http://raw.densitydesign.org/)
 * [Wordle - Word clouds](http://www.wordle.net/)
