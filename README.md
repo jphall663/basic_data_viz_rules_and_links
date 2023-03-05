@@ -61,7 +61,6 @@ Below are a few good rules for increasing audience engagement (and decreasing au
 ## Sites for inspiration
 
 * [FlowingData](http://flowingdata.com/)
-* [Jer Thorpe's blprnt blog](http://blog.blprnt.com/)
 * [Information is Beautiful](http://www.informationisbeautiful.net/)
 * [The NYT Upshot](http://www.nytimes.com/section/upshot)
 * [The Data Visualization Catalogue](http://www.datavizcatalogue.com/)
