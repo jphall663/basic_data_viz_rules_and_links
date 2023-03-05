@@ -55,7 +55,6 @@ Below are a few good rules for increasing audience engagement (and decreasing au
 * [Google Trends - Search terms over time](http://www.google.com/trends/)
 * [Color Brewer - Color advice for maps](http://colorbrewer2.org/)
 * [Raw - Web visualizations from CSV or Excel files](http://raw.densitydesign.org/)
-* [Wordle - Word clouds](http://www.wordle.net/)
 * [Gephi - Visualizing complex networks](http://gephi.github.io/)
 * [Circos - Circular format plots](http://circos.ca/software/)
 
